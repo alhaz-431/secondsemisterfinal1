@@ -1,0 +1,63 @@
+
+
+.shirtproduct{
+
+        
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.select-price{
+
+    background-color: #0e3e85;
+    color: white;
+
+    border: 3px solid black;
+    border-radius: 60px 0px 00px 50px;
+}
+.select-price:hover{
+    background-color: rgb(218, 23, 17);
+
+}
+
+.card {
+  
+  border: 3px solid #e41f1f;
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
+  text-align: center;
+  display: inline-block;
+  background-color: #6587b5fe;
+  border-radius: 50px 0px 50px 0px;
+}
+
+
+.productContainer{
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px solid #333;
+  background:#0e8551;
+  border-radius: 9px 30px 9px 50px;
+  text-align: center;
+  
+  justify-content: center;
+} 
+
+.reset-btn{
+
+    background-color: #de4503;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 2px solid yellow;
+    border-radius: 10px 0px 5px 10px;
+}
+
+
+.reset-btn:hover{
+
+    background-color: rgb(255, 0, 128);
+}
